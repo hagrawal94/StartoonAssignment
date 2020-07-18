@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BConnect</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_tags"><u>Add more tags</u></string>
+    <string-array name="language_arrays">
+        <item>hi</item>
+        <item>od</item>
+        <item>pa</item>
+        <item>gu</item>
+        <item>mr</item>
+        <item>te</item>
+        <item>ta</item>
+        <item>as</item>
+        <item>bn</item>
+        <item>ml</item>
+        <item>kn</item>
+        <item>en</item>
+    </string-array>
+</resources>
